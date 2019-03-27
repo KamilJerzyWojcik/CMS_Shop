@@ -1,0 +1,14 @@
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\bin\Debug\netcoreapp2.1\server.deps.json
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.json
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.dev.json
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\bin\Debug\netcoreapp2.1\server.dll
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\bin\Debug\netcoreapp2.1\server.pdb
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.csprojAssemblyReference.cache
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.csproj.CoreCompileInputs.cache
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cache
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cs
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.AssemblyInfoInputs.cache
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.AssemblyInfo.cs
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.RazorTargetAssemblyInfo.cache
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.dll
+C:\Users\kwojcik\Desktop\rozwój\angular\angularZaawansowany\server\server\obj\Debug\netcoreapp2.1\server.pdb
